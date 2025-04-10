@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently studying at university :)
+🌱 I’m currently studying at university
 
 
 # 💻 Tech Stack:
